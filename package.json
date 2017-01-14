@@ -1,0 +1,22 @@
+{
+  "name": "pantrysbest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gujiajia/pantrysbest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gujiajia/pantrysbest/issues"
+  },
+  "homepage": "https://github.com/gujiajia/pantrysbest#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  }
+}
