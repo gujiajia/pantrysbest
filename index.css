@@ -1,0 +1,16 @@
+.navbar-default {
+    background: url("images/bg.png") no-repeat;
+    background-size: cover;
+    font-size: 14px;
+    font-family: "华文细黑", STHeiti Light, STXihei, "华文细黑", SimHei, "黑体" !important;
+}
+
+.navbar-brand img {
+    max-height: 26px;
+    margin-top: -4px;
+}
+
+.navbar-nav>li>a {
+    color: #ffffff!important;
+    background: transparent!important;
+}
