@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/gujiajia/pantrysbest#readme",
   "dependencies": {
+    "@types/jquery": "^2.0.39",
     "bootstrap": "^3.3.5",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1"
   }
 }

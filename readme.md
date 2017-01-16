@@ -1,9 +1,9 @@
 # 安装插件
 * cnpm init
-* cnpm install bootstrap@3.3.5
-* cnpm install @types/jquery
-* cnpm install jquery
-* cnpm install font-awesome
+* cnpm install bootstrap@3.3.5 --save
+* cnpm install @types/jquery --save
+* cnpm install jquery --save
+* cnpm install font-awesome --save
 # 引用
 [样式重置 搜索 yui css reset](http://yuilibrary.com/yui/docs/cssreset/)
 ```html

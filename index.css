@@ -1,8 +1,11 @@
+/*导航栏*/
+
 .navbar-default {
     background: url("images/bg.png") no-repeat;
     background-size: cover;
     font-size: 14px;
     font-family: "华文细黑", STHeiti Light, STXihei, "华文细黑", SimHei, "黑体" !important;
+    border-color: transparent;
 }
 
 .navbar-brand img {
@@ -13,4 +16,84 @@
 .navbar-nav>li>a {
     color: #ffffff!important;
     background: transparent!important;
+}
+
+
+/*轮播*/
+
+#carousel-id {
+    margin-top: 49px;
+}
+
+.carousel-indicators li {
+    background: #9dc819 none repeat scroll 0 0;
+}
+
+.carousel-indicators .active {
+    background: #390b1f none repeat scroll 0 0;
+}
+
+
+/*媒体查询/强制更改*/
+
+@media(max-width:1092px) {
+    /*导航栏*/
+    .container {
+        width: 895px!important;
+    }
+}
+
+@media(max-width:768px) {
+    /*导航栏*/
+    .navbar-default {
+        border-color: transparent;
+        background: #9c1e2e;
+    }
+    .dropdown-menu>li>a {
+        color: #ffffff!important;
+        background: transparent!important;
+    }
+    #mobile-header-nav {
+        background: url("images/bg.png") repeat-y!important;
+        border-color: transparent;
+    }
+    .navbar-default .navbar-collapse {
+        border-color: transparent;
+        max-height: 550px;
+        overflow: hidden;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background: transparent;
+    }
+    .navbar-default .navbar-toggle {
+        border: transparent;
+        color: #ffffff;
+        margin-right: 0;
+        padding-left: 5px;
+        padding-right: 0px;
+    }
+    .navbar-header i {
+        padding-top: 13px;
+        color: #ffffff;
+        text-align: right;
+        margin-left: -10px;
+    }
+    .navbar-brand img {
+        margin: 0 auto;
+    }
+    /*标签页*/
+    .biaoqian .row {
+        background: #fff;
+        color: #390c20;
+    }
+    .biaoqian .row a {
+        color: #390c20;
+    }
+    .biaoqian .row .col-xs-3 {
+        padding: 0;
+    }
+    .biaoqian .row .col-xs-3 .col-xs-12 {
+        padding: 0;
+    }
 }
