@@ -34,6 +34,22 @@
 }
 
 
+/*产品列表/新品推荐*/
+
+.link-a a {
+    color: #838383;
+    font-size: 12px;
+}
+
+.link-a a:hover {
+    color: #23527c;
+}
+
+.link-a span {
+    color: #b5b5b6;
+}
+
+
 /*媒体查询/强制更改*/
 
 @media(max-width:1092px) {
