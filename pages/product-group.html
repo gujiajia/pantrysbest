@@ -1,0 +1,24 @@
+<!--左侧菜单栏-->
+<div class="container" style="margin-top: 70px;">
+    <div class="col-md-3">
+        <!--close-other 是否一次只打开一个-->
+        <uib-accordion close-others="true">
+            <div uib-accordion-group class="panel-default" heading="{{productGroup.name}}" ng-repeat="productGroup in allProductGroups" ng-click="goProductGroup(productGroup)">
+                <div ng-repeat=" products in productGroup.products ">{{products.name}}</div>
+            </div>
+        </uib-accordion>
+    </div>
+    <!--内容,产品组的所有产品-->
+    <div class="col-md-7">
+        <div class="row" ng-repeat="product in selectedProductGroup.products" ng-click="" style="margin-bottom: 20px;">
+            <div class="col-md-4">
+                <img src="{{product.banner}} " alt=" " class="img-responsive" style="border-radius: 10%;">
+            </div>
+            <div class="col-md-7 ">
+                <h4><a>{{product.name}}</a></h4>
+                <h5>¥{{product.price}}</h5>
+                <h5>{{product.keywords}}</h5>
+            </div>
+        </div>
+    </div>
+</div>

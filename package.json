@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/gujiajia/pantrysbest#readme",
   "dependencies": {
+    "@types/angular": "^1.6.4",
     "@types/jquery": "^2.0.39",
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-ui-bootstrap": "^2.5.0",
     "bootstrap": "^3.3.5",
     "font-awesome": "^4.7.0",
     "jquery": "^3.1.1"

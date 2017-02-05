@@ -1,0 +1,234 @@
+{
+    "productGroups": [{
+            "id": 1,
+            "name": "迪士尼系列",
+            "products": [{
+                    "id": 1,
+                    "name": "冰雪奇缘树心蛋糕",
+                    "price": 319,
+                    "keywords": "冰雪世界, 调皮雪宝, 惊叹绝伦, 情谊无限",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/135/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1480133695",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "小熊维尼原味重乳酪蛋糕",
+                    "price": 299,
+                    "keywords": "童心未泯, 憨态可掬, 乳酪乐园, 欢愉分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/138/original/%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1481096725",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "礼盒",
+            "products": [{
+                    "id": 1,
+                    "name": "新春方形挞礼盒",
+                    "price": 190,
+                    "keywords": "包含春季限量产品草莓乳酪挞，新春聚会必备！",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/142/original/%E6%96%B9%E5%BD%A2%E6%8C%9E-%E6%96%B0%E6%98%A5%E7%A4%BC%E7%9B%92%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1483917679",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "纸杯蛋糕礼盒",
+                    "price": 299,
+                    "keywords": "经典纸杯，一盒惊喜，美丽滋味，愉悦分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/139/original/%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8200x200.jpg?1482392121",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "蛋糕",
+            "products": [{
+                    "id": 1,
+                    "name": "草莓空气感蛋糕",
+                    "price": 319,
+                    "keywords": "轻盈如息，戚风舞动，低脂低糖，荟萃香甜",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/058/original/%E8%8D%89%E8%8E%93%E7%A9%BA%E6%B0%94%E6%84%9F%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1483599061",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "草莓乳酪慕斯蛋糕",
+                    "price": 299,
+                    "keywords": "慕斯质地，细腻如丝，柔软如棉，果香馥佩",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/013/original/%E8%8D%89%E8%8E%93%E4%B9%B3%E9%85%AA%E6%85%95%E6%96%AF-%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1483509848",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "纸杯蛋糕",
+            "products": [{
+                    "id": 1,
+                    "name": "草莓纸杯蛋糕",
+                    "price": 319,
+                    "keywords": "整颗草莓，内含果酱，草莓奶油，红色纸托",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/060/original/%E8%8D%89%E8%8E%93%E7%BA%B8%E6%9D%AF%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1483510643",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "黑深林纸杯蛋糕",
+                    "price": 299,
+                    "keywords": "童心未泯, 憨态可掬, 乳酪乐园, 欢愉分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/064/original/%E9%BB%91%E6%A3%AE%E6%9E%97%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8200x200.jpg?1441686228",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "派",
+            "products": [{
+                    "id": 1,
+                    "name": "冰雪奇缘树心蛋糕",
+                    "price": 319,
+                    "keywords": "冰雪世界, 调皮雪宝, 惊叹绝伦, 情谊无限",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/135/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1480133695",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "小熊维尼原味重乳酪蛋糕",
+                    "price": 299,
+                    "keywords": "童心未泯, 憨态可掬, 乳酪乐园, 欢愉分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/138/original/%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1481096725",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "挞",
+            "products": [{
+                    "id": 1,
+                    "name": "冰雪奇缘树心蛋糕",
+                    "price": 319,
+                    "keywords": "冰雪世界, 调皮雪宝, 惊叹绝伦, 情谊无限",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/135/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1480133695",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "小熊维尼原味重乳酪蛋糕",
+                    "price": 299,
+                    "keywords": "童心未泯, 憨态可掬, 乳酪乐园, 欢愉分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/138/original/%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1481096725",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "礼品卡",
+            "products": [{
+                    "id": 1,
+                    "name": "冰雪奇缘树心蛋糕",
+                    "price": 319,
+                    "keywords": "冰雪世界, 调皮雪宝, 惊叹绝伦, 情谊无限",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/135/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1480133695",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/289/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1480137972",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/290/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B52.jpg?1480137987",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/291/original/frozen%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91%E4%BA%A7%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B53.jpg?1480138005"
+                    ],
+                    "description": "白雪皑皑的天地，是冰雪女王的世界。艾莎和安娜仿佛回到孩童时候，和调皮的雪宝，其乐融融地玩耍着。艾莎展现着超能力魔法，不仅为他们变幻出晶莹的冰雪，还使这款蛋糕与众不同。当你切开蛋糕，神奇之处跃然眼前——原来蛋糕里藏着一棵可爱的圣诞树，而且是无论在哪个角度切下，都有完整的树心呈现。为艾莎疯狂的孩子们，大概会尖叫着蹦起来吧！让人们在切开的那一刻，仿佛拥有艾莎的超能力一般，惊叹美好绝伦，分享情谊无限，是此款蛋糕最了不起的魔力。",
+                    "matrial": ["可可粉（法国)", "奶油奶酪（澳大利亚）", "黄油（新西兰）", "乳脂奶油（新西兰）", "砂糖（韩国）", "糖粉（香港）", "面粉（中国）", "鸡蛋（中国）", "抹茶粉（中国）", "鱼胶粉（香港）", "白巧克力（中国）", "新鲜蓝莓（美国）", "迷迭香（中国）"]
+                },
+                {
+                    "id": 2,
+                    "name": "小熊维尼原味重乳酪蛋糕",
+                    "price": 299,
+                    "keywords": "童心未泯, 憨态可掬, 乳酪乐园, 欢愉分享",
+                    "banner": "https://www.pantrysbest.com/system/product_sets/product_category_images/000/000/138/original/%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E4%BA%A7%E5%93%81%E5%88%97%E8%A1%A8.jpg?1481096725",
+                    "images": [
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/295/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95_-_%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE1.jpg?1481096943",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/296/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE2.jpg?1481096955",
+                        "https://www.pantrysbest.com/system/product_set_images/images/000/000/297/original/%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E5%A4%A7%E8%9B%8B%E7%B3%95-%E5%AE%98%E7%BD%91-%E8%AF%A6%E6%83%85%E5%9B%BE3.jpg?1481096966"
+                    ],
+                    "description": "“今天的早餐是什么？”“多一点蜂蜜，再多一点蜂蜜……”维尼小熊憨憨的声音响起，对喜爱食物的渴望代表着对全世界的期待，满足了食欲就拥有了欢愉。可爱的维尼为了找寻最爱，被执着的蜜蜂一路追赶，甚至追到了蛋糕盒里！所幸维尼最后一头栽进乳酪里，终于可以大吃一顿。芝香浓郁的原味重乳酪蛋糕打底，屁屁朝天的巧克力维尼小熊为装饰，外形风趣，口味圆满。适合喜爱维尼的你，也适合欢聚一堂的场合，其乐融融，温馨满足。",
+                    "matrial": ["白巧克力（法国）", "奶油奶酪（澳大利亚）", "乳脂奶油（新西兰）", "砂糖（韩国）", "黄油（新西兰）", "鸡蛋（中国）", "碧根果（美国）", "百香果果蓉（比利时）"]
+                }
+            ]
+        }
+    ]
+}
